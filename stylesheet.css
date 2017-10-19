@@ -1,0 +1,29 @@
+*{
+}
+
+body{
+  background-image: url(Images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+
+}
+
+section{
+  position: relative;
+  top: 100;
+  color: white;
+  background-color: black;
+}
+
+header {
+background-color: black;
+color: white;
+font-family: "Papyrus", fantasy;
+}
+
+hr{
+  color: white;
+}
